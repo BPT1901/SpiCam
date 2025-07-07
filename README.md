@@ -1,4 +1,4 @@
-# SpyCam Live Stream
+# SpiCam Live Stream
 
 This project turns a Raspberry Pi 4 with a Pi Camera into a low-latency, live MJPEG video stream accessible for example via a secure Cloudflare Tunnel.
 
